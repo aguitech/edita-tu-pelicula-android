@@ -1,0 +1,32 @@
+# Build outputs
+build/
+app/build/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Gradle
+.gradle/
+.gradletasknamecache
+local.properties
+gradle-app.setting
+.gradletasknamecache
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android Studio
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Misc
+.DS_Store
+*.log
+*.hprof
+
+# OS
+Thumbs.db
